@@ -1,0 +1,19 @@
+{
+  "dna": "f80f41c5dbb0927725587d6feb05996c9fd296bf",
+  "name": "#2",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/2.png",
+  "edition": 2,
+  "date": 1632174352951,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Background"
+    },
+    {
+      "trait_type": "Full Body",
+      "value": "Butterfly Whisperer"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

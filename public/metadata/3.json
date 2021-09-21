@@ -1,0 +1,19 @@
+{
+  "dna": "b79894d7829ca14529ae6081ed119d032694b9ff",
+  "name": "#3",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/3.png",
+  "edition": 3,
+  "date": 1632174353519,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Mountain Background"
+    },
+    {
+      "trait_type": "Full Body",
+      "value": "Astro Cat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

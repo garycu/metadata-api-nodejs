@@ -1,0 +1,19 @@
+{
+  "dna": "07dd800328941ddb38069106c8d904789cfd1543",
+  "name": "#4",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/4.png",
+  "edition": 4,
+  "date": 1632174353993,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow Background"
+    },
+    {
+      "trait_type": "Full Body",
+      "value": "Space Shiba Inu"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

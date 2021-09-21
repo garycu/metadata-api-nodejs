@@ -1,0 +1,19 @@
+{
+  "dna": "836ddd954df8b0368657f3845efa0a6dbb49a6b4",
+  "name": "#1",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/1.png",
+  "edition": 1,
+  "date": 1632174352460,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Background"
+    },
+    {
+      "trait_type": "Full Body",
+      "value": "Trojan Cartoon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
