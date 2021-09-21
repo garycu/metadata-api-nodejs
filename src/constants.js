@@ -1,4 +1,4 @@
-const HOST = 'https://birthstamps.herokuapp.com'
+const HOST = 'https://api.civicsunplugged.org'
 
 module.exports = {
   HOST
