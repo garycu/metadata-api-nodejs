@@ -19,7 +19,7 @@ app.get('/', function(req, res) {
   res.send('Get ready for OpenSea!');
 })
 
-app.get('/api/token/:token_id', function(req, res) {
+app.get('/skywalker/:token_id', function(req, res) {
   const tokenId = parseInt(req.params.token_id).toString()
   const data = JSON.parse(fs.readFileSync("./public/metadata/" + tokenId + ".json", "utf8"));
   data.image = `${HOST}/images/${tokenId}.png`;
