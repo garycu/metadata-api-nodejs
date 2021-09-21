@@ -1,0 +1,17 @@
+{
+  "name": "SkywalkerZ #27",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/27.png",
+  "edition": 27,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars Background"
+    },
+    {
+      "trait_type": "Full Body",
+      "value": "Neon Astro"
+    }
+  ],
+  "hash": "b8c19d6899b0fb061da5d24aeb937ae6af7911d6"
+}

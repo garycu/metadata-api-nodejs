@@ -1,0 +1,17 @@
+{
+  "name": "SkywalkerZ #23",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/23.png",
+  "edition": 23,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars Background"
+    },
+    {
+      "trait_type": "Full Body",
+      "value": "Phoenix Warrior"
+    }
+  ],
+  "hash": "51031234eb30b607b2f4bc4d31909cec3d585e08"
+}

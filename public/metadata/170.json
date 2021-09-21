@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #170",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/170.png",
+  "edition": 170,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Base Backpack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Heavy Armor Suit"
+    },
+    {
+      "trait_type": "Upper",
+      "value": "No Upper Body"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Storm Trooper Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Captain Hat"
+    }
+  ],
+  "hash": "3d569cedc9a5a23f56a9fa421b5e6496de84bece"
+}

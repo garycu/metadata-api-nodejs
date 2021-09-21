@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #70",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/70.png",
+  "edition": 70,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Base Backpack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Suit"
+    },
+    {
+      "trait_type": "Upper",
+      "value": "Black Exosuit"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Batman Helmet (Gold)"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Captain Hat"
+    }
+  ],
+  "hash": "33e946566e8a77f86dc86f153202e5a8e21b77d0"
+}

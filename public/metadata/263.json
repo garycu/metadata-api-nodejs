@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #263",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/263.png",
+  "edition": 263,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Mountain Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Base Backpack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Suit"
+    },
+    {
+      "trait_type": "Upper",
+      "value": "Doge Shirt"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Martian Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Backwards Hat"
+    }
+  ],
+  "hash": "c9b0d884ca692c93ed971f3b7859303a90a86423"
+}

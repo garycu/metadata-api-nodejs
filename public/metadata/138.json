@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #138",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/138.png",
+  "edition": 138,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moon Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Base Backpack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Suit"
+    },
+    {
+      "trait_type": "Upper",
+      "value": "African Warrior Attire"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Daft Punk Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Banana Hat"
+    }
+  ],
+  "hash": "8a3d07fbdcfec680f08f7a50a2bd0434692ddc5e"
+}

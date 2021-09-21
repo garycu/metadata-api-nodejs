@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #35",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/35.png",
+  "edition": 35,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Angel Wings"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Gold Suit super rare"
+    },
+    {
+      "trait_type": "Upper",
+      "value": "No Upper Body"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Assassin Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "White Cowboy Hat"
+    }
+  ],
+  "hash": "fc627c8911c91eaeb17d1f9e5e562c80f06d40fa"
+}

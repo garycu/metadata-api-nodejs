@@ -1,0 +1,17 @@
+{
+  "name": "SkywalkerZ #11",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/11.png",
+  "edition": 11,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars Background"
+    },
+    {
+      "trait_type": "Full Body",
+      "value": "Trojan Cartoon"
+    }
+  ],
+  "hash": "af8b8c075edc60d69950ec9392aba4e2ed18c3a1"
+}

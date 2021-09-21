@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #229",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/229.png",
+  "edition": 229,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Black Rocket Pack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Gold Suit super rare"
+    },
+    {
+      "trait_type": "Upper",
+      "value": "Banana Suit"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Martian Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Backwards Hat"
+    }
+  ],
+  "hash": "5e87411bf6001b28eeda279bca2810ec59fb4c4a"
+}

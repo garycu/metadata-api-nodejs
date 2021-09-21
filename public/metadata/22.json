@@ -1,0 +1,17 @@
+{
+  "name": "SkywalkerZ #22",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/22.png",
+  "edition": 22,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Spaceship Background"
+    },
+    {
+      "trait_type": "Full Body",
+      "value": "Space Shiba Inu"
+    }
+  ],
+  "hash": "2552837e3646cef0497115e4df3d631c46c34f06"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "SkywalkerZ #9",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/9.png",
+  "edition": 9,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Background"
+    },
+    {
+      "trait_type": "Full Body",
+      "value": "Butterfly Whisperer"
+    }
+  ],
+  "hash": "f80f41c5dbb0927725587d6feb05996c9fd296bf"
+}

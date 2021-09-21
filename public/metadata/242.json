@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #242",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/242.png",
+  "edition": 242,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cyberpunk Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Base Backpack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Heavy Armor Suit"
+    },
+    {
+      "trait_type": "Upper",
+      "value": "Black Robe"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Batman Helmet (Gold)"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Backwards Hat"
+    }
+  ],
+  "hash": "1c474ab0f569e3ee89b087cd9db6016bde5908f8"
+}

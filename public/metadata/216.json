@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #216",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/216.png",
+  "edition": 216,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Rainbow Wings"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Gold Heavy Armor Suit"
+    },
+    {
+      "trait_type": "Upper",
+      "value": "Banana Shirt"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Batman Helmet (Gold)"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "No Hat"
+    }
+  ],
+  "hash": "ebc2dda088a8a73d922a2dd748f050d8388310f4"
+}

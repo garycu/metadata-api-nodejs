@@ -1,0 +1,17 @@
+{
+  "name": "SkywalkerZ #16",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/16.png",
+  "edition": 16,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Background"
+    },
+    {
+      "trait_type": "Full Body",
+      "value": "Bunny Dream Teammate"
+    }
+  ],
+  "hash": "516a7356e7c19b46e41c31524cce65122dea6b00"
+}

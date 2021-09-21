@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #193",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/193.png",
+  "edition": 193,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Angel Wings"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Suit"
+    },
+    {
+      "trait_type": "Upper",
+      "value": "Banana Shirt"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Storm Trooper Helmet (Gold)"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Backwards Hat"
+    }
+  ],
+  "hash": "0d2f71e468cb3acf8142acc35bb88eb81e812252"
+}

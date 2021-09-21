@@ -1,0 +1,17 @@
+{
+  "name": "SkywalkerZ #6",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/6.png",
+  "edition": 6,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Background"
+    },
+    {
+      "trait_type": "Full Body",
+      "value": "Humanoid Robot"
+    }
+  ],
+  "hash": "53fee1826dc758be3ec52016ae049272681385fa"
+}

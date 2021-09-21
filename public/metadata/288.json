@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #288",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/288.png",
+  "edition": 288,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Gold Wings"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Heavy Armor Suit"
+    },
+    {
+      "trait_type": "Upper",
+      "value": "America Armor"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Jagged Blue Helmet (Gold)"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Banana Hat"
+    }
+  ],
+  "hash": "836efcb97c2f5c0dea2763ee1fb3c23e581dcb0a"
+}

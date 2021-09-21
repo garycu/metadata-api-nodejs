@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #146",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/146.png",
+  "edition": 146,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rocket Launch Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Base Backpack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Heavy Armor Suit"
+    },
+    {
+      "trait_type": "Upper",
+      "value": "Black Robe"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Iron Man Helmet (Gold)"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "White Cowboy Hat"
+    }
+  ],
+  "hash": "f7ae4387cabf17abbc45c9a5627f2bc81c8ed2a8"
+}

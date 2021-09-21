@@ -1,0 +1,17 @@
+{
+  "name": "SkywalkerZ #20",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/20.png",
+  "edition": 20,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rocket Launch Background"
+    },
+    {
+      "trait_type": "Full Body",
+      "value": "Astro Fighter"
+    }
+  ],
+  "hash": "fb7ae888699c4907c99565220d747b9a3a32abc7"
+}

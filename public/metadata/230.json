@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #230",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/230.png",
+  "edition": 230,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Base Backpack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Suit"
+    },
+    {
+      "trait_type": "Upper",
+      "value": "White Iron Man Plate"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "SpaceX Helmet (Gold)"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Backwards Hat"
+    }
+  ],
+  "hash": "0137f2c6b5fd9a91a6dba1deee257b5134632cad"
+}

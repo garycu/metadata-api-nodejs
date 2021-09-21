@@ -1,0 +1,17 @@
+{
+  "name": "SkywalkerZ #21",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/21.png",
+  "edition": 21,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Background"
+    },
+    {
+      "trait_type": "Full Body",
+      "value": "Bananaman"
+    }
+  ],
+  "hash": "f4e0c8f4cc4c5402f93e81792dd865c2a6da8c2c"
+}

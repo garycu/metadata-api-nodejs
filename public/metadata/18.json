@@ -1,0 +1,17 @@
+{
+  "name": "SkywalkerZ #18",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/18.png",
+  "edition": 18,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rocket Launch Background"
+    },
+    {
+      "trait_type": "Full Body",
+      "value": "Bunny Dream Teammate"
+    }
+  ],
+  "hash": "9589a3e9a706458dd6af507a0ad75bb0c44443b4"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "SkywalkerZ #26",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/26.png",
+  "edition": 26,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Background"
+    },
+    {
+      "trait_type": "Full Body",
+      "value": "Trojan Cartoon"
+    }
+  ],
+  "hash": "927308e3c5f16f2cfc3be08402604e4aa9c0775b"
+}

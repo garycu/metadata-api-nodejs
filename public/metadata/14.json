@@ -1,0 +1,17 @@
+{
+  "name": "SkywalkerZ #14",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/14.png",
+  "edition": 14,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow Background"
+    },
+    {
+      "trait_type": "Full Body",
+      "value": "Green Laser Ranger"
+    }
+  ],
+  "hash": "6214b161bcadba2ef3064cea308d592885d2e681"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "SkywalkerZ #15",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/15.png",
+  "edition": 15,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow Background"
+    },
+    {
+      "trait_type": "Full Body",
+      "value": "Astro Penguin"
+    }
+  ],
+  "hash": "1e2733a738bc37f995fefe2a94b9b6a398c326df"
+}

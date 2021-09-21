@@ -1,19 +1,17 @@
 {
-  "dna": "5c10dcc253330373a421f6995a6f07a3c0256e1e",
-  "name": "#5",
-  "description": "This is the description of your NFT project, remember to replace this",
+  "name": "SkywalkerZ #5",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
   "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/5.png",
   "edition": 5,
-  "date": 1632174354526,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Mars Background"
+      "value": "Futuristic Background 2"
     },
     {
       "trait_type": "Full Body",
-      "value": "Humanoid Robot"
+      "value": "Astro Cat"
     }
   ],
-  "compiler": "HashLips Art Engine"
+  "hash": "46f0c9f4c2bc676d3a0379a5c0a256e410407c16"
 }

@@ -1,0 +1,17 @@
+{
+  "name": "SkywalkerZ #29",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/29.png",
+  "edition": 29,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Background"
+    },
+    {
+      "trait_type": "Full Body",
+      "value": "Astro Cat"
+    }
+  ],
+  "hash": "feb47440b3795b42a823346d97c6dfb23dab4f4a"
+}

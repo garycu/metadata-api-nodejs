@@ -1,0 +1,17 @@
+{
+  "name": "SkywalkerZ #8",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/8.png",
+  "edition": 8,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Mountain Background"
+    },
+    {
+      "trait_type": "Full Body",
+      "value": "Cyberpunk Girl"
+    }
+  ],
+  "hash": "d5bd75b9c3de6b15b66eb396fe478f0498a45148"
+}

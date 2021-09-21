@@ -1,0 +1,17 @@
+{
+  "name": "SkywalkerZ #25",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/25.png",
+  "edition": 25,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rocket Launch Background"
+    },
+    {
+      "trait_type": "Full Body",
+      "value": "Silver Laser Ranger"
+    }
+  ],
+  "hash": "1d4190c3dde5439e94c7be386c4ea3b2c688d5a1"
+}

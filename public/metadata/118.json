@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #118",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/118.png",
+  "edition": 118,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Mountain Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Base Backpack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Suit"
+    },
+    {
+      "trait_type": "Upper",
+      "value": "Iron Man Plate"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Martian Helmet (Gold)"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Captain Hat"
+    }
+  ],
+  "hash": "72cd27f05c186bb53365058881b1749c3fe1505a"
+}
