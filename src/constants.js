@@ -1,4 +1,4 @@
-const HOST = 'https://api.civicsunplugged.org'
+const HOST = 'https://api.civicsunplugged.org/skywalkers'
 
 module.exports = {
   HOST

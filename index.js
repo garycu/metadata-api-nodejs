@@ -2,7 +2,6 @@ const express = require('express');
 const path = require('path');
 const moment = require('moment');
 const { HOST } = require('./src/constants');
-const db = require('./src/database');
 const fs = require('fs');
 
 const PORT = process.env.PORT || 5000;
@@ -13,16 +12,16 @@ const app = express()
   .set('view engine', 'ejs');
 
 // Static public files
-app.use(express.static(path.join(__dirname, 'public')));
+app.use('/skywalkers', express.static(path.join(__dirname, 'public')));
 
 app.get('/', function(req, res) {
   res.send('Get ready for OpenSea!');
 });
 
-app.get('/skywalkers/metadata/:token_id', function(req, res) {
+app.get('/skywalkers/:token_id', function(req, res) {
   const tokenId = parseInt(req.params.token_id).toString();
   const data = JSON.parse(fs.readFileSync("./public/metadata/" + tokenId + ".json", "utf8"));
-  data.image = `${HOST}/skywalkers/images/${tokenId}.png`;
+  data.image = `${HOST}/images/${tokenId}.png`;
   res.send(data);
 });
 
