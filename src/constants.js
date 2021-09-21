@@ -1,5 +1,7 @@
-const HOST = 'https://api.civicsunplugged.org/skywalkers'
+const COLLECTION_NAME = 'skywalkers';
+const HOST = 'https://api.civicsunplugged.org/skywalkers';
 
 module.exports = {
-  HOST
+  HOST,
+  COLLECTION_NAME,
 }
