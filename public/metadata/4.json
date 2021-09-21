@@ -1,0 +1,17 @@
+{
+  "name": "SkywalkerZ #4",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/4.png",
+  "edition": 4,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Portal Background"
+    },
+    {
+      "trait_type": "Full Body",
+      "value": "Astro Trader"
+    }
+  ],
+  "hash": "137290f2e2377180d9ed9ab3fef5c6bca5563bc7"
+}

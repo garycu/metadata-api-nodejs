@@ -1,0 +1,17 @@
+{
+  "name": "SkywalkerZ #3",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/3.png",
+  "edition": 3,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moon Background"
+    },
+    {
+      "trait_type": "Full Body",
+      "value": "Orange Martian Suit"
+    }
+  ],
+  "hash": "37a8543b99c14a07001b64e700e11dbd3fc419a8"
+}
