@@ -3,14 +3,13 @@ const path = require('path');
 const moment = require('moment');
 const { HOST, COLLECTION_NAME } = require('./src/constants');
 const fs = require('fs');
+const PORT = process.env.PORT || 5000;
 const Web3 = require("web3");
-
 const MySmartContract = require("./NCC.json");
 const smartContractAddress = "0x5b733f8a3209a2eabbe64eba915eb433ad508e1d";
 
 let totalSupply = 0;
-
-const init1 = async () => {
+const init = async () => {
   const web3 = new Web3("https://rinkeby.infura.io/v3/7c18daa2505046499e29c8f240e38258");
   const contract = new web3.eth.Contract(
     MySmartContract,
@@ -19,12 +18,7 @@ const init1 = async () => {
   const _totalSupply = await contract.methods.totalSupply().call();
   totalSupply = _totalSupply;
 }
-
-init1();
-
-
-
-const PORT = process.env.PORT || 5000;
+init();
 
 const app = express()
   .set('port', PORT)
