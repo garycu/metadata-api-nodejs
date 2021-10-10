@@ -1,8 +1,6 @@
 const express = require('express');
 const path = require('path');
 const request = require('request');
-const Storage = require('@google-cloud/storage');
-const moment = require('moment');
 const { HOST, COLLECTION_NAME } = require('./src/constants');
 const fs = require('fs');
 const PORT = process.env.PORT || 5000;
