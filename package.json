@@ -10,6 +10,7 @@
   "author": "Alex Atallah <alex.atallah@opensea.io>",
   "license": "MIT",
   "dependencies": {
+    "@google-cloud/storage": "^5.15.0",
     "all": "^0.0.0",
     "ejs": "^3.1.6",
     "express": "^4.17.1",
@@ -21,6 +22,6 @@
     "tape": "^5.3.1"
   },
   "engines": {
-    "node": "14.17.6"
+    "node": "14.18.0"
   }
 }
