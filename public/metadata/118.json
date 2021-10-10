@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #118",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/118.png",
+  "edition": 118,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Seas"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Base Backpack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Heavy Armor Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "Dream 24 Jersey"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Black Bat Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Camo Backwards Hat"
+    }
+  ],
+  "hash": "671120c4351f6c6fd32d23ef95dcbea3004a46b6"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #316",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/316.png",
+  "edition": 316,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Seas"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Infinity Wings"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Heavy Armor Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "Retro Future Outfit"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "White Explorer Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Black Cowboy Hat"
+    }
+  ],
+  "hash": "66dde0c1ad5f1425523d18108b54762099d9c38b"
+}

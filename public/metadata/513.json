@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #513",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/513.png",
+  "edition": 513,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Base Backpack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Base Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "White Art Hoodie (w: Chromie Squiggle)"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "White Explorer Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Red and White Backwards Hat"
+    }
+  ],
+  "hash": "bcb39bd030cc17fbb9fbb6ad428d7ef074a63c68"
+}

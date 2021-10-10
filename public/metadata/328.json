@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #328",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/328.png",
+  "edition": 328,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moon Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Angel Wings"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Base Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "Level Up Shirt"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Jagged Blue Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "No Hat"
+    }
+  ],
+  "hash": "03c097618a8b67419b62f321b271e92073d2481c"
+}

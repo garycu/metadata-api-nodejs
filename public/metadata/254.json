@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #254",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/254.png",
+  "edition": 254,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Space Diner"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Red Rocket Pack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Heavy Armor Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "Blue Star Armor"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "White Explorer Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Banana Hat"
+    }
+  ],
+  "hash": "2d330b554f3b6e97e3cba48bfdc6a798e77ffd61"
+}

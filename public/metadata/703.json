@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #703",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/703.png",
+  "edition": 703,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Space Island House"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Base Backpack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Base Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "Blue Star Armor"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Black Bat Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "No Hat"
+    }
+  ],
+  "hash": "fcd63ee185931800e45f4602689e380a6d8c3be8"
+}

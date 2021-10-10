@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #655",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/655.png",
+  "edition": 655,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Spaceship Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Base Backpack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Base Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "White Art Hoodie (w: Fidenza Piece)"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Base Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Captain Hat"
+    }
+  ],
+  "hash": "09228b1e24101f38bdccffd244ce2d5c08fff55b"
+}

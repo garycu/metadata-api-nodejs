@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #843",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/843.png",
+  "edition": 843,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Seas"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Angel Wings"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Heavy Armor Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "White Chest Plate"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Black Bat Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "No Hat"
+    }
+  ],
+  "hash": "679e7cfc76859802ba74918863d890bfa45d916f"
+}

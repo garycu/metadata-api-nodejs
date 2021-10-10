@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #492",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/492.png",
+  "edition": 492,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moon Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Base Backpack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Base Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "Blue Star Armor"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "White Patrol Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "No Hat"
+    }
+  ],
+  "hash": "b0e9940a19bd3a636dec4c8bb700aa1aada6491b"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #650",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/650.png",
+  "edition": 650,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Retrowave Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Infinity Wings"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Base Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "Doge Shirt"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Base Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Camo Backwards Hat"
+    }
+  ],
+  "hash": "b2133ab3f1066a7f421b8c6438d2ff84d8d32d5d"
+}

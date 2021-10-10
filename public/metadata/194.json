@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #194",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/194.png",
+  "edition": 194,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Base Backpack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Heavy Armor Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "Stylish Short Sleeve Shirt"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Black Bat Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "White Bucket Hat"
+    }
+  ],
+  "hash": "cb12955e14748ae542ccacc5859ccb55ea88a844"
+}

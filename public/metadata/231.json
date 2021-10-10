@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #231",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/231.png",
+  "edition": 231,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Infinity Wings"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Heavy Armor Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "White Art Hoodie (w: Findenza Field)"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Base Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "No Hat"
+    }
+  ],
+  "hash": "3a578d98710681b4ea0cf54f34cbbc3948dbc982"
+}

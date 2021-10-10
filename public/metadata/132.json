@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #132",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/132.png",
+  "edition": 132,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rocket Launch Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Angel Wings"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Heavy Armor Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "No Upper Body Clothing"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Base Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Camo Backwards Hat"
+    }
+  ],
+  "hash": "000ed48ac6d69566ef838c66b559c1aab19194e0"
+}

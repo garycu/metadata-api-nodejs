@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #1964",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/1964.png",
+  "edition": 1964,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Retrowave Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Rainbow Wings"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Base Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "White Chest Plate"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Base Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "No Hat"
+    }
+  ],
+  "hash": "0c24d40f0864820a3266658bad4f15ada8f92533"
+}

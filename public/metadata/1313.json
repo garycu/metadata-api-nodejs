@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #1313",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/1313.png",
+  "edition": 1313,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Angel Wings"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Base Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "Blue Skateboard Skater"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Gold Patrol Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "No Hat"
+    }
+  ],
+  "hash": "324f5f5f94ef31876a54a99b46fe4e06c973e8e7"
+}

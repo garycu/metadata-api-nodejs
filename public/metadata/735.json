@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #735",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/735.png",
+  "edition": 735,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Retrowave Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Air Jet Pack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Heavy Armor Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "Black Battle Robe"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "White Explorer Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Black Cowboy Hat"
+    }
+  ],
+  "hash": "aa79982d402c5fb7bc82794bbc6f115bd5964421"
+}

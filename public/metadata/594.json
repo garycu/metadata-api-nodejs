@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #594",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/594.png",
+  "edition": 594,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Space Diner"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Infinity Wings"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Base Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "Stylish Short Sleeve Shirt"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "White Explorer Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Banana Hat"
+    }
+  ],
+  "hash": "9c4245169c4425f14d2ba648e308f1c80632b8b6"
+}

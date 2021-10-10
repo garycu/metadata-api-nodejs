@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #774",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/774.png",
+  "edition": 774,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Angelic Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Black Rocket Pack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Base Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "White Art Hoodie (w: Axie)"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Base Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Crown with Blue Gems"
+    }
+  ],
+  "hash": "5a435316c14e11420493d0e37488c7ed3b528cc7"
+}

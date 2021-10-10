@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #872",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/872.png",
+  "edition": 872,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Snowy Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Black Rocket Pack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Base Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "Level Up Shirt"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "White Patrol Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Black Cowboy Hat"
+    }
+  ],
+  "hash": "28d3b8bda9aa51305cab16b036cca22387aeb49d"
+}

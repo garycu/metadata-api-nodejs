@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #1897",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/1897.png",
+  "edition": 1897,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Space Island House"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Base Backpack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Gold Base Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "No Upper Body Clothing"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Pink Neon Explorer Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Black Bucket Hat"
+    }
+  ],
+  "hash": "299774393b9a0eaf1bda59c6289fe07a9b68940a"
+}

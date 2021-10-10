@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #1523",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/1523.png",
+  "edition": 1523,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Spaceship Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Base Backpack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Base Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "White Art Hoodie (w: Axie)"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Black Bounty Hunter Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Crown with Multicolor Gems"
+    }
+  ],
+  "hash": "a11d1081e62e644f5ee9d37db77d499ca408ad7d"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #47",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/47.png",
+  "edition": 47,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Black Rocket Pack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Base Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "Black Armor Plate"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "White Ranger Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Halo"
+    }
+  ],
+  "hash": "4c35b88fee76a290638752d90d5f735e432a7a9a"
+}

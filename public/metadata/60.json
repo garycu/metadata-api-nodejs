@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #60",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/60.png",
+  "edition": 60,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Base Backpack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Base Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "White Art Hoodie (w: Chromie Squiggle)"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "White Patrol Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "White Bucket Hat"
+    }
+  ],
+  "hash": "d7f7dd7262719d922b94cd66f051a70c408ec44b"
+}

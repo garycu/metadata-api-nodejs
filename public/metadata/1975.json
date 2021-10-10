@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #1975",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/1975.png",
+  "edition": 1975,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Spaceship Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Base Backpack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Heavy Armor Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "White Exosuit"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Pink Neon Explorer Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Black Bucket Hat"
+    }
+  ],
+  "hash": "bf0c22e6725c414b38cf8af6d1577b6cc84cfedd"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #439",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/439.png",
+  "edition": 439,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Seas"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Blue and Gold Wings"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Base Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "Ethereum Shirt"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Gold SpaceX Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "No Hat"
+    }
+  ],
+  "hash": "5832ad3cff3c0d019f5cdbd0c45c153f953a9667"
+}

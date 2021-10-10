@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #709",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/709.png",
+  "edition": 709,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Seas"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Rainbow Wings"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Base Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "Retro Future Outfit"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Gold Ranger Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "No Hat"
+    }
+  ],
+  "hash": "47b74c1a1a3e41e22696ef11ceb955af2004b71b"
+}

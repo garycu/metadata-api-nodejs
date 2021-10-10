@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #1972",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/1972.png",
+  "edition": 1972,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Futuristic Background 2"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Base Backpack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Base Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "Watch Necklace"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Base Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Red and White Backwards Hat"
+    }
+  ],
+  "hash": "0748213ed94c25d68ad4a4525ae9e5d684c8cfd6"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #1977",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/1977.png",
+  "edition": 1977,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rock Hideout"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Angel Wings"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Gold Base Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "Black Military Vest"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "White Explorer Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Crown with Blue Gems"
+    }
+  ],
+  "hash": "e626c3d3fcd021b8b807333d01197dd3686e205c"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #32",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/32.png",
+  "edition": 32,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Space Island House"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Base Backpack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Base Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "CU Shirt"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Jagged Blue Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "No Hat"
+    }
+  ],
+  "hash": "612375b1c1df40d870c4a9df766addbf1c6e2d67"
+}

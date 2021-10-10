@@ -1,0 +1,33 @@
+{
+  "name": "SkywalkerZ #435",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/435.png",
+  "edition": 435,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cyberpunk Background"
+    },
+    {
+      "trait_type": "Backpack",
+      "value": "Gold Wings"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Heavy Armor Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "Gold Skateboard Skater"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Black Bounty Hunter Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Crown with Blue Gems"
+    }
+  ],
+  "hash": "c9f2f59a65dbf8f72a8e181809460db109b1e61c"
+}
