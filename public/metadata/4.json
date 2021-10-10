@@ -6,12 +6,28 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Portal Background"
+      "value": "Rock Hideout"
     },
     {
-      "trait_type": "Full Body",
-      "value": "Astro Trader"
+      "trait_type": "Backpack",
+      "value": "Air Jet Pack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Gold Base Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "Black Exosuit"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Gold Bounty Hunter Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "No Hat"
     }
   ],
-  "hash": "137290f2e2377180d9ed9ab3fef5c6bca5563bc7"
+  "hash": "d890ed21578d25ac8feea039a1ac5805b40fded5"
 }

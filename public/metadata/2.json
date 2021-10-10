@@ -6,12 +6,28 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Moon Background"
+      "value": "Futuristic Background 2"
     },
     {
-      "trait_type": "Full Body",
-      "value": "Butterfly Whisperer"
+      "trait_type": "Backpack",
+      "value": "Base Backpack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Base Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "White Armor with Glowing Chest"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Black Bat Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "No Hat"
     }
   ],
-  "hash": "5504d979e2cebb335b972d61de463a1cc228dbe3"
+  "hash": "86853900bf235565c16948dc30501cb6038cab47"
 }

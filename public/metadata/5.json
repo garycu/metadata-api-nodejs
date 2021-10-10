@@ -6,12 +6,28 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Futuristic Background 2"
+      "value": "Green Mountain Background"
     },
     {
-      "trait_type": "Full Body",
-      "value": "Astro Cat"
+      "trait_type": "Backpack",
+      "value": "Red Rocket Pack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Base Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "Black Military Vest"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Gold Ranger Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Camo Backwards Hat"
     }
   ],
-  "hash": "46f0c9f4c2bc676d3a0379a5c0a256e410407c16"
+  "hash": "f585c93ae92589afcd7c07b333dbec56e02cf357"
 }

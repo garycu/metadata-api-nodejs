@@ -6,12 +6,28 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Yellow Background"
+      "value": "Rocket Launch Background"
     },
     {
-      "trait_type": "Full Body",
-      "value": "Humanoid Robot"
+      "trait_type": "Backpack",
+      "value": "Base Backpack"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Base Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "No Upper Body Clothing"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Jagged Gold Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Camo Backwards Hat"
     }
   ],
-  "hash": "6bc047ab45fe8f7d0fa2c4ee82082b6a8bf3aef7"
+  "hash": "cb45d8acc36c81841000cb8c4592498f2d861ea2"
 }

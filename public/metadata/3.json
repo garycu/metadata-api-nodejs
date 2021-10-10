@@ -6,12 +6,28 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Moon Background"
+      "value": "Red Background"
     },
     {
-      "trait_type": "Full Body",
-      "value": "Orange Martian Suit"
+      "trait_type": "Backpack",
+      "value": "Rainbow Wings"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Base Suit"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "Dream 24 Jersey"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Base Helmet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "No Hat"
     }
   ],
-  "hash": "37a8543b99c14a07001b64e700e11dbd3fc419a8"
+  "hash": "bf0dd2d5e338480818be1dd7d9999e211fd2e764"
 }
