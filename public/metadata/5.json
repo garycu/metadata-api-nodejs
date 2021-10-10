@@ -1,0 +1,17 @@
+{
+  "name": "SkywalkerZ #5",
+  "description": "A collection of 2,030 little astronauts exploring the Civics Unplugged Universe.",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/5.png",
+  "edition": 5,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Futuristic Background 2"
+    },
+    {
+      "trait_type": "Full Body",
+      "value": "Astro Cat"
+    }
+  ],
+  "hash": "46f0c9f4c2bc676d3a0379a5c0a256e410407c16"
+}
